@@ -22,5 +22,6 @@
    * 4- place order
       * "place order" request
    
-* [please refer to this diagram](https://lucid.app/publicSegments/view/c13ff47f-35d7-4e16-900b-bd7c43ff3943/image.png)
+<img src="workflow.jpeg" style="display:block; margin-left:auto; margin-right:auto;"/>
 
+* [please refer to this link for higher quality](https://lucid.app/publicSegments/view/c13ff47f-35d7-4e16-900b-bd7c43ff3943/image.png)
